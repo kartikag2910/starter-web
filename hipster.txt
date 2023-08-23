@@ -1,7 +1,0 @@
-Versions: JDK comes in different versions (e.g., JDK 8, JDK 11, JDK 17, etc.), each with its own set of features and improvements. Different versions of the JDK may be required depending on the version of Java your application is targeting.
-
-Installation: To use JDK, you need to download and install it on your computer. Once installed, you'll need to set up environment variables like JAVA_HOME to point to the installation directory.
-
-Usage: JDK is essential for Java development. You use it to compile your Java source code into bytecode that can run on the Java Virtual Machine (JVM). Additionally, you can use tools like javac for compiling and java for running Java applications.
-1
-2
